@@ -1,0 +1,101 @@
+Course_ID,Course_Name,Duration,Fees
+301,Web Development,3 Months,38600
+302,Machine Learning,3 Months,48300
+303,C Programming,4 Months,48200
+304,Cyber Security,4 Months,10800
+305,CSS,12 Months,16500
+306,Node.js,12 Months,44200
+307,Android Development,12 Months,39500
+308,Cyber Security,2 Months,36100
+309,CSS,2 Months,14200
+310,CSS,4 Months,22300
+311,MySQL,2 Months,14200
+312,C++,12 Months,38600
+313,React,2 Months,12200
+314,SQL,2 Months,43200
+315,Data Science,3 Months,24200
+316,Node.js,6 Months,22400
+317,Data Structures,4 Months,20900
+318,PHP,12 Months,35500
+319,Java,2 Months,12900
+320,Data Structures,12 Months,7500
+321,Java,4 Months,27600
+322,Node.js,6 Months,36000
+323,AI Basics,6 Months,18900
+324,Web Development,12 Months,10800
+325,MySQL,6 Months,10600
+326,JavaScript,12 Months,29900
+327,Data Science,4 Months,7300
+328,HTML,6 Months,35600
+329,Python,2 Months,15400
+330,JavaScript,3 Months,44200
+331,C++,4 Months,19800
+332,PHP,2 Months,5300
+333,Machine Learning,6 Months,13900
+334,C++,6 Months,32200
+335,HTML,12 Months,33600
+336,MySQL,2 Months,25300
+337,Python,6 Months,5900
+338,AI Basics,2 Months,49100
+339,PHP,12 Months,26900
+340,Cloud Computing,6 Months,41300
+341,Node.js,4 Months,10800
+342,React,2 Months,21600
+343,Data Structures,12 Months,28500
+344,MySQL,2 Months,27300
+345,C Programming,3 Months,27300
+346,Cloud Computing,6 Months,31800
+347,Java,6 Months,49500
+348,JavaScript,4 Months,16300
+349,PHP,3 Months,8900
+350,Data Science,2 Months,32100
+351,Data Science,3 Months,44700
+352,MySQL,4 Months,42200
+353,C++,3 Months,10200
+354,C++,4 Months,15100
+355,Data Structures,12 Months,12800
+356,Java,3 Months,44500
+357,Machine Learning,6 Months,43600
+358,Cloud Computing,12 Months,27900
+359,Cloud Computing,12 Months,21500
+360,PHP,3 Months,27500
+361,Java,6 Months,27600
+362,JavaScript,4 Months,35200
+363,Python,4 Months,30900
+364,Java,4 Months,28600
+365,AI Basics,2 Months,7900
+366,MySQL,4 Months,8900
+367,Java,12 Months,35400
+368,Data Science,6 Months,28600
+369,Cloud Computing,12 Months,45500
+370,Python,6 Months,46400
+371,Cloud Computing,3 Months,21400
+372,Android Development,6 Months,30600
+373,C++,2 Months,28000
+374,C Programming,4 Months,41500
+375,Java,12 Months,38000
+376,Data Structures,2 Months,17600
+377,AI Basics,6 Months,31800
+378,Data Science,12 Months,13100
+379,MySQL,4 Months,19400
+380,React,6 Months,44600
+381,PHP,12 Months,7600
+382,PHP,2 Months,21800
+383,C Programming,12 Months,39700
+384,React,4 Months,17900
+385,Android Development,3 Months,22000
+386,Java,12 Months,38900
+387,C++,4 Months,20800
+388,React,3 Months,35400
+389,Java,4 Months,33600
+390,React,4 Months,46600
+391,C++,12 Months,9700
+392,Node.js,12 Months,23500
+393,SQL,4 Months,20800
+394,Data Structures,3 Months,22400
+395,Machine Learning,3 Months,16500
+396,C++,3 Months,8900
+397,JavaScript,2 Months,30900
+398,Cyber Security,12 Months,6900
+399,PHP,12 Months,11700
+400,Android Development,6 Months,12800
